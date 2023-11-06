@@ -42,7 +42,6 @@ Deep appreciation to the custodians of the "Wealth of Nations" dataset, whose ge
 
 [Link to my dashboard] (https://github.com/gigishab/Excel-and-Tableau-Project/blob/main/README.md)
 
-<img width="1338" alt="Screenshot 2023-11-06 at 14 14 51" src="https://github.com/gigishab/Excel-and-Tableau-Project-/assets/97798293/9cd68b1e-d1c7-400a-9aab-4a43191ffd3c">
 
 
 
