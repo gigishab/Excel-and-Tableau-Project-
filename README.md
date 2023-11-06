@@ -38,7 +38,12 @@ This project operates under the permissive [MIT License](link_to_license), affor
 
 ## Acknowledgments
 Deep appreciation to the custodians of the "Wealth of Nations" dataset, whose generosity has fostered the inception of this project, epitomizing the quintessence of data analysis and visualization.
+
 [Link to my dashboard] (https://github.com/gigishab/Excel-and-Tableau-Project/blob/main/README.md)
 
-<img width="1338" alt="Screenshot 2023-11-06 at 14 14 51" src="https://github.com/gigishab/Excel-and-Tableau-Project/assets/97798293/6485aca8-48fb-455b-9266-5a8ae3ff0971">
+<img width="1338" alt="Screenshot 2023-11-06 at 14 14 51" src="https://github.com/gigishab/Excel-and-Tableau-Project-/assets/97798293/9cd68b1e-d1c7-400a-9aab-4a43191ffd3c">
+
+
+
+
 
