@@ -1,5 +1,6 @@
 
 # Excel and Tableau Data Analysis Project
+<img width="1338" alt="Screenshot 2023-11-06 at 14 14 51" src="https://github.com/gigishab/Excel-and-Tableau-Project-/assets/97798293/9cd68b1e-d1c7-400a-9aab-4a43191ffd3c">
 
 ## Project Overview
 This project represents a quintessential showcase of sophisticated data analyst skills, where the "Wealth of Nations" dataset serves as the foundation for comprehensive data wrangling, transformation, critical appraisal, and data visualization.
